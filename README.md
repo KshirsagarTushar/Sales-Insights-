@@ -87,36 +87,36 @@ Solicited feedback from stakeholders and made necessary adjustments based on the
 # Key Findings 🔍
 **A] SALES INSIGHTS - REVENUE (PHASE - I)**
 
-**1. Revenue Peaks and Drops:**
+**1. Revenue Peaks and Drops :**
 - Total revenue generation reaches its peak in January but declines significantly by September.
 
-**2. Sales Performance:**
+**2. Sales Performance :**
 - Total sales hit their highest point in November, while the lowest occurs in September, mirroring revenue trends.
 
-**3. Top Revenue-Generating Units:**
+**3. Top Revenue-Generating Units :**
 - The five highest revenue-generating cities are Delhi NCR, Mumbai, Ahmedabad, Nagpur, and Bhopal.
 
-**4. Sales Volume by City:**
+**4. Sales Volume by City :**
 - Delhi NCR, Mumbai, Kochi, Nagpur, and Ahmedabad stand out as the cities with the highest sales volumes.
 
-**5. Key Customers by Revenue:**
+**5. Key Customers by Revenue :**
 - 'Elecricalsara Stores', 'Premium Stores', 'Excel Stores', 'Nixon', and 'Electricalslytical' emerges as the top five customers in terms of revenue generation.
 
 **B] SALES INSIGHTS - PROFIT ANALYSIS (PHASE - II)**
 
-**1. Profit Peaks and Drops:**
+**1. Profit Peaks and Drops :**
 - Profit reaches its highest point in January but drops significantly in September, following a similar pattern to revenue.
 
-**2. Top Markets by Profit Margin:**
+**2. Top Markets by Profit Margin :**
 - Surat, Bhubaneshwar, and Patna stand out as the markets with the highest profit margins across all regions.
 
-**3. High-Profit Customers:**
+**3. High-Profit Customers :**
 - The top five customers with the highest profit margins are 'Novus', 'Elite', 'Leader', 'Expression', and 'Propel'.
 
-**4. Contribution by Customer Type:**
+**4. Contribution by Customer Type :**
 - "Brick and Mortar" customers account for a substantial 64.79% of total profit, far exceeding the 35.21% contribution from "E-Commerce" customers.
 
-**5. Top Revenue-Generating Customer:**
+**5. Top Revenue-Generating Customer :**
 - 'Elecricalsara Stores' emerges as the customer contributing the highest revenue overall.
 
 # Impact 🌟
