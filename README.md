@@ -85,7 +85,7 @@ Solicited feedback from stakeholders and made necessary adjustments based on the
 - **Profit Margin % :** Profit in terms of %
 
 # Key Findings 🔍
-**A] Sales Insights - Revenue (Phase - I)**
+**A] SALES INSIGHTS - REVENUE (PHASE - I)**
 
 **1. Revenue Peaks and Drops:**
 - Total revenue generation reaches its peak in January but declines significantly by September.
@@ -102,7 +102,7 @@ Solicited feedback from stakeholders and made necessary adjustments based on the
 **5. Key Customers by Revenue:**
 - 'Elecricalsara Stores', 'Premium Stores', 'Excel Stores', 'Nixon', and 'Electricalslytical' emerges as the top five customers in terms of revenue generation.
 
-**B] Sales Insights - Profit Analysis (Phase - II)**
+**B] SALES INSIGHTS - PROFIT ANALYSIS (PHASE - II)**
 
 **1. Profit Peaks and Drops:**
 - Profit reaches its highest point in January but drops significantly in September, following a similar pattern to revenue.
