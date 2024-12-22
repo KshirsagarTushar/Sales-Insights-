@@ -146,4 +146,6 @@ Based on the analysis of sales insights, the following recommendations are propo
 The analysis offers valuable perspectives into the sales dynamics and profitability of various markets and customer segments. Key findings reveal that total revenue and profit exhibit notable seasonal trends, peaking in January while declining by September. Major cities like Delhi NCR, Mumbai, and Ahmedabad dominate both revenue generation and sales volumes, highlighting their significance in the overall performance landscape. Additionally, insights into customer behavior indicate that "Brick and Mortar" customers significantly contribute to profits compared to their e-commerce counterparts. By leveraging these insights, stakeholders can implement targeted strategies to enhance revenue growth, optimize resource allocation, and ultimately drive profitability across the organization.
 
 # Relevant Links 🔗
+<a href="https://www.linkedin.com/posts/tushar-dk_tableau-dataanalytics-businessintelligence-activity-7259376378800689152-84MK?utm_source=share&utm_medium=member_desktop">LinkedIn Post
+
 <a href="https://public.tableau.com/app/profile/tushar.kshirsagar2148/viz/SalesInsightsDashboard_17110372111310/Dashboard-Revenue?publish=yes">Tableau Public (Sales Insights - Revenue & Profit Analysis)
